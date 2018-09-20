@@ -1,0 +1,29 @@
+_repo: Rhymes-of-Northern-Bards-Being-a-Curious-Collection-of-Old-and-New-Songs-and-Poems-Peculiar-t__53156
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bell, J. J. (John Joy)
+    alias: Bell, John Joy
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '3182'
+    url: http://www.gutenberg.org/2009/agents/3182
+    wikipedia: http://en.wikipedia.org/wiki/John_Joy_Bell
+description: ''
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, English -- England, Northern -- Texts'
+- !lcc 'PR'
+- !lcsh 'England, Northern -- Poetry'
+- GITenberg
+title: "Rhymes of Northern Bards\r\nBeing a Curious Collection of Old and New Songs\
+  \ and Poems, Peculiar to the Counties of Newcastle upon Tyne, Northumberland, and\
+  \ Durham"
+url: http://www.gutenberg.org/ebooks/53156
