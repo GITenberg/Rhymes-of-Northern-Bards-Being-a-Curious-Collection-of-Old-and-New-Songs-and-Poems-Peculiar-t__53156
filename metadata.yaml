@@ -1,5 +1,8 @@
 _repo: Rhymes-of-Northern-Bards-Being-a-Curious-Collection-of-Old-and-New-Songs-and-Poems-Peculiar-t__53156
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53156-h/images/cover.jpg
 creator:
   editor:
     agent_name: Bell, J. J. (John Joy)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3182
     wikipedia: http://en.wikipedia.org/wiki/John_Joy_Bell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53156#Rhymes-of-Northern-Bards-Being-a-Curious-Collection-of-Old-and-New-Songs-and-Poems-Peculiar-t_
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
